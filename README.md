@@ -14,7 +14,7 @@ Link download dataset tại https://www.kaggle.com/akashkothare/tsf-datasets
 ## Bussiness Task
 Với vai trò Data Analyst, tôi sẽ phân tích dữ liệu bán hàng và xác định các khu vực hoạt động kém và cơ hội để thúc đẩy tăng trưởng kinh doanh.
 
-[Xem chi tiết bài phân tích tại đây](/super_store_eda.ipynb)
+### [Xem chi tiết bài phân tích tại đây](/super_store_eda.ipynb)
 
 ## Business Questions
 
