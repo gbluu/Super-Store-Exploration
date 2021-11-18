@@ -24,7 +24,7 @@ Với vai trò Data Analyst, tôi sẽ phân tích dữ liệu bán hàng và x�
 - Phân khúc khách hàng như thế nào?
 - Loại hình vận chuyển nào được ưa chuộng?
 - Lợi nhuận của các vùng như thế nào?
-- Hoạt động kinh doan của các chi nhánh như thế nào?
+- Số lượng bán của các thành phố như thế nào?
 
 #### Tool
 
